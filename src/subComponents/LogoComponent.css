@@ -1,0 +1,18 @@
+.logo_esha .logo {
+  top: 0rem;
+  display: block;
+  position: relative;
+  top: 0.5rem;
+  float: left;
+  font-size: 1.5rem;
+  text-decoration: none;
+  /* margin-top: 10px; */
+  line-height: normal;
+}
+.logo_esha .logo-name {
+  font-family: "Lucida Handwriting";
+  font-weight: bold;
+  /* padding: 0 10px; */
+  /* color: #55198b; */
+  top: 0rem;
+}
