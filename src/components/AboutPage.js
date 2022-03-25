@@ -74,11 +74,9 @@ const AboutPage = () => {
         </Spaceman>    
         <Main>
         🔭 I'm Esha Goel, a 3rd Year undergraduate from Shiv Nadar University, Greater Noida.<br/><br/>
-        💻 I am a budding Software Developer👩 | Design Enthusiast📲 | MERN Stack Developer 🤓 | Pythoneer 🐍 | Open Source Contributor 📝| Competitive Programmer🤠 | Machine Learning Enthusiast📈 | Technical Writer 🥳.<br/><br/>
+        💻 I am a budding Software Developer👩 | Design Enthusiast📲 | MERN Stack Developer 🤓 | Open Source Contributor 📝| Machine Learning Enthusiast📈 | Technical Writer 🥳.<br/><br/>
         🌱 I love building webpages and Software products.I love to combine my passion for learning and developing with my software development skills to continue building personalized products for people. 
         👯 I am a person who is obsessed with the idea of improving herself and wants a platform to grow and excel.<br/><br/>
-        😄 Looking forward to utilize my Web Development, Software Development and Hacking Skills in a Dynamic Environment. 🧑🏻
-
         </Main>
 
         <BigTitle text="ABOUT" top="10%" left="5%" />
