@@ -102,14 +102,13 @@ const MySkillsPage = (skills) => {
     <FullStack />Full Stack Development
 </Title>
 <Description >
-    ⚡ Building resposive website front end using React-Redux <br/>
+    ⚡ Building resposive website front end using MERN stack <br/>
     {/*⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin*/}
-    ⚡ Creating application backend in Node, Express and Flask
 </Description>
 <Description>
 <strong>Skills</strong>
 <p>
-Html, Css, Js, MERN stack (MongoDb,Express,React js,Node js) , npm, yarn, Redux, Sass, Bootstrap, Tailwind, C, C++
+Html, Css, Js, npm, Redux, Sass, Bootstrap, Tailwind, C, C++
 </p>
 </Description>
 <Description>
@@ -126,7 +125,6 @@ Html, Css, Js, MERN stack (MongoDb,Express,React js,Node js) , npm, yarn, Redux,
     <DataScience/>Data Science and AI
 </Title>
 <Description>
-    ⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases<br/>
     ⚡ Experience of working with Computer Vision and NLP projects<br/>
     {/*⚡ Complex quantitative modelling for dynamic forecasting and time series analysis*/}
 </Description>
@@ -151,7 +149,6 @@ Jupyter Notebook, Google Collab, Anaconda
 </Title>
 <Description>
     ⚡ Designing highly attractive user interface for mobile and web applications<br/>
-    ⚡ Customizing logo designs and building logos from scratch<br/>
     ⚡ Creating the flow of application functionalities to optimize user experience
 </Description>
 <Description>
