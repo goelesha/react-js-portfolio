@@ -191,7 +191,7 @@ const Main = () => {
                     CONTACT ME
                 </motion.h2>
             </Contact>
-            <Resume target="_blank" to={{pathname:"https://drive.google.com/file/d/1d-u2ZzVAVTbuAmbkYb1Y7h0-X2OMM5s0/view?usp=sharing"}} click={+click}>
+            <Resume target="_blank" to={{pathname:"https://drive.google.com/file/d/11h2hNNFfL7mkQnLuZ9CG289fBRQy1KsT/view?usp=sharing"}} click={+click}>
                 <motion.h2
                 initial={{
                     y:-200,

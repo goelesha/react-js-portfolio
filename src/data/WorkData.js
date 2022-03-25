@@ -35,7 +35,7 @@ export const Work = [
         description:"A cool voice assistant which can order and add itemss to your cart just on voice commands",
         tags:["python","selenium","web-automation"],
         
-        demo:"",
+        demo:"https://youtu.be/hc7T6M2_MD8",
         github:"https://github.com/goelesha/VoiShop--Voice-Enabled-Shopping-Assistant"
        
     },{

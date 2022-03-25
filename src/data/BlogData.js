@@ -46,7 +46,7 @@ export const Blogs = [
         name:"GirlScript Summer of Code(GSSoC) - Contributor",
         tags:["C","C++","Python","ML","Open-source"],
         date:"8 March- 31 May, 2021",
-        imgSrc:"https://scholarsxp.com/wp-content/uploads/2021/02/gssoc-thumbnai-min.png",
+        imgSrc:"https://cdn.hashnode.com/res/hashnode/image/upload/v1623661215136/jPWcZyekD.png",
         link:"https://media-exp1.licdn.com/dms/image/C562DAQEoLcB3nuUu1A/profile-treasury-image-shrink_800_800/0/1623743812354?e=1639936800&v=beta&t=GQp8sgdizt3yEw20-24ptd2sqJPoc21aFrABWVmato4"
     },
     {
@@ -70,7 +70,7 @@ export const Blogs = [
         name:"Verzeo in association with Microsoft - ML using Python Intern",
         tags:["Python","ML","Microsoft","Data Analysis"],
         date:"1 June- 1 August, 2020",
-        imgSrc:"https://media-exp1.licdn.com/dms/image/C562DAQEmSkyzScFWeQ/profile-treasury-image-shrink_800_800/0/1606143920192?e=1639987200&v=beta&t=RGQzn_bOsvfIXZKlVHiqQmLHYBDMpKD8xQPvec1r3Yg",
+        imgSrc:"https://s3-us-west-2.amazonaws.com/issuewireassets/primg/1416/logo.jpg",
         link:"https://media-exp1.licdn.com/dms/image/C562DAQEmSkyzScFWeQ/profile-treasury-image-shrink_800_800/0/1606143920192?e=1639987200&v=beta&t=RGQzn_bOsvfIXZKlVHiqQmLHYBDMpKD8xQPvec1r3Yg"
     },
   

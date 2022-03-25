@@ -19,7 +19,7 @@ export const Achievements = [
     {
         id:3,
         name:"3rd Position all over and 1st from India in ICONICS UG Conference",
-        description:"3rd Position in International Conference of Undergraduate Students of Electronics (ICONICS-UG) ",
+        description:"Project on design of 2.4GHz Tatto Antenna  ",
         tags:["Electronics","International Conference","Winner"],        
         demo:"https://drive.google.com/file/d/1ipAImpAU35FdZ0JvAYpcag8D5aOCDG6M/view?usp=sharing",
         
@@ -54,14 +54,14 @@ export const Achievements = [
         demo:"https://drive.google.com/file/d/1lQKuQ5GgI0en9N4GMO7gkCqgArPedyOv/view?usp=sharing",
         
     },*/
-    {
+    /*{
         id:7,
         name:"Google Certified UX Designer",
         description:"Completed UI/UX Design Courses and got professional certificate from Google ",
         tags:["UI","UX","Design"],    
         demo:"https://www.credly.com/earner/earned/badge/281b177a-ee0f-4bac-9c4b-2d9f53619537",
         
-    },
+    },*/
     
   
 ] 
